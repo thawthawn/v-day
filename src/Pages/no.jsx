@@ -4,9 +4,9 @@ const no = () => {
   return (
     <div className='bg'>
         <div className="noBorder">
-            <h2>Opp! I apologize for asking you</h2>
+            <h2>Oh no! Did I just ask something silly?</h2>
             <div className="noBox">
-                <h2 style={{ fontSize: '80px', marginTop:'30px',height:'50px'}}>😭</h2>
+                <h2 style={{ fontSize: '80px', marginTop:'30px',height:'50px'}}>🤭</h2>
             </div>
             <a href="/"><button className="btn1">Return</button></a>
         </div>
