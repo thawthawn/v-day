@@ -4,7 +4,7 @@ const pg2 = () => {
   return (
     <div className='bg'>
         <div className="pg2border">
-            <h2>I have been a crush on you for so long</h2>
+            <h2>I've had a crush on you for a long time.</h2>
             <div className="pg2box">
                 <h2>Will you be my valentine? 🙄</h2>
                 <div className='btns'>
